@@ -4,10 +4,3 @@ server:
 lavalink:
   server:
     password: "12345678"
-    sources:
-      youtube: true
-      soundcloud: true
-
-logging:
-  level:
-    root: INFO
