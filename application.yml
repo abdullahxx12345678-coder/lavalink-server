@@ -3,7 +3,7 @@ server:
 
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: "12345678"
     sources:
       youtube: true
       soundcloud: true
