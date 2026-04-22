@@ -1,6 +1,14 @@
 server:
-  port: 2333
-
+  port: 10000 # مهم جداً لـ Render
+  address: 0.0.0.0
 lavalink:
   server:
-    password: "codeluv"
+    password: "12345678"
+    sources:
+      youtube: true
+      bandcamp: true
+      soundcloud: true
+      twitch: true
+      vimeo: true
+      http: true
+      local: false
